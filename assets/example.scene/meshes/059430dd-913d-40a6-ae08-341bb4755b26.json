@@ -1,0 +1,236 @@
+{
+    "meshes": [
+        {
+            "name": "WallLeft Collider",
+            "id": "059430dd-913d-40a6-ae08-341bb4755b26",
+            "uniqueId": 1759665187524,
+            "type": "Mesh",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scaling": [
+                100,
+                100,
+                100
+            ],
+            "localMatrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "isEnabled": true,
+            "isVisible": false,
+            "infiniteDistance": false,
+            "pickable": true,
+            "receiveShadows": false,
+            "billboardMode": 0,
+            "visibility": 1,
+            "alwaysSelectAsActiveMesh": false,
+            "checkCollisions": false,
+            "ellipsoid": [
+                0.5,
+                1,
+                0.5
+            ],
+            "ellipsoidOffset": [
+                0,
+                0,
+                0
+            ],
+            "doNotSyncBoundingInfo": false,
+            "isBlocker": false,
+            "sideOrientation": 1,
+            "isUnIndexed": false,
+            "geometryUniqueId": 53,
+            "geometryId": "c03f23bf-7d66-4f47-b25c-37f8ccc004b0",
+            "subMeshes": null,
+            "materialUniqueId": 1761897323582,
+            "materialId": "aff623d3-4dba-4871-977c-c3f2b5154cc6",
+            "metadata": {
+                "isCollisionMesh": true,
+                "parentId": 1757819531467
+            },
+            "instances": [
+                {
+                    "name": "WallLeft Collider",
+                    "id": "4fca9a0d-2e65-4c91-b9e8-1fe61a451e8f",
+                    "isEnabled": true,
+                    "isVisible": false,
+                    "isPickable": true,
+                    "checkCollisions": false,
+                    "position": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scaling": [
+                        100,
+                        100,
+                        100
+                    ],
+                    "parentInstanceIndex": 0,
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "metadata": {
+                        "isCollisionMesh": true,
+                        "parentId": 1757831405532
+                    },
+                    "animations": [],
+                    "ranges": [],
+                    "uniqueId": 1759665187526
+                },
+                {
+                    "name": "WallLeft Collider",
+                    "id": "0abcb074-1894-4cd7-9cce-fc8df0367107",
+                    "isEnabled": true,
+                    "isVisible": false,
+                    "isPickable": true,
+                    "checkCollisions": false,
+                    "position": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scaling": [
+                        100,
+                        100,
+                        100
+                    ],
+                    "parentInstanceIndex": 1,
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "metadata": {
+                        "isCollisionMesh": true,
+                        "parentId": 1757831505632
+                    },
+                    "animations": [],
+                    "ranges": [],
+                    "uniqueId": 1759665187527
+                }
+            ],
+            "animations": [],
+            "ranges": [],
+            "layerMask": 268435455,
+            "alphaIndex": 1.7976931348623157e+308,
+            "hasVertexAlpha": false,
+            "overlayAlpha": 1,
+            "overlayColor": [
+                0,
+                0,
+                0
+            ],
+            "applyFog": true,
+            "delayLoadingFile": "assets/example.scene/geometries/c03f23bf-7d66-4f47-b25c-37f8ccc004b0.babylonbinarymeshdata",
+            "boundingBoxMaximum": [
+                0.5,
+                0.5,
+                0.5
+            ],
+            "boundingBoxMinimum": [
+                -0.5,
+                -0.5,
+                -0.5
+            ],
+            "_binaryInfo": {
+                "positionsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 0,
+                    "dataType": 1
+                },
+                "normalsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 288,
+                    "dataType": 1
+                },
+                "uvsAttrDesc": {
+                    "count": 48,
+                    "stride": 2,
+                    "offset": 576,
+                    "dataType": 1
+                },
+                "indicesAttrDesc": {
+                    "count": 36,
+                    "stride": 1,
+                    "offset": 768,
+                    "dataType": 0
+                },
+                "subMeshesAttrDesc": {
+                    "count": 1,
+                    "stride": 5,
+                    "offset": 912,
+                    "dataType": 0
+                }
+            },
+            "positions": null,
+            "normals": null,
+            "uvs": null,
+            "hasUVs": true,
+            "indices": null
+        }
+    ],
+    "transformNodes": [],
+    "cameras": [],
+    "lights": [],
+    "geometries": {
+        "boxes": [],
+        "spheres": [],
+        "cylinders": [],
+        "toruses": [],
+        "grounds": [],
+        "planes": [],
+        "torusKnots": [],
+        "vertexData": []
+    },
+    "metadata": {
+        "isCollisionMesh": true,
+        "parentId": 1757819531467
+    },
+    "basePoseMatrix": [
+        0.1977845198912284,
+        0,
+        0,
+        0,
+        0,
+        9.999999999999954,
+        0,
+        0,
+        0,
+        0,
+        2.51100886543757,
+        0,
+        1.5165550533162089,
+        0,
+        -612.4377449518029,
+        1
+    ],
+    "isCollisionMesh": true,
+    "collisionMeshType": "cube"
+}

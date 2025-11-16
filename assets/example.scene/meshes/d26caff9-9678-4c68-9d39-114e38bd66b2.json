@@ -1,0 +1,176 @@
+{
+    "meshes": [
+        {
+            "name": "New Sphere",
+            "id": "d26caff9-9678-4c68-9d39-114e38bd66b2",
+            "uniqueId": 1758071965341,
+            "type": "Mesh",
+            "position": [
+                0,
+                4.2331104503158485,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scaling": [
+                0.2,
+                0.2,
+                0.2
+            ],
+            "localMatrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "isEnabled": true,
+            "isVisible": true,
+            "infiniteDistance": false,
+            "pickable": true,
+            "receiveShadows": true,
+            "billboardMode": 0,
+            "visibility": 1,
+            "alwaysSelectAsActiveMesh": false,
+            "checkCollisions": false,
+            "ellipsoid": [
+                0.5,
+                1,
+                0.5
+            ],
+            "ellipsoidOffset": [
+                0,
+                0,
+                0
+            ],
+            "doNotSyncBoundingInfo": false,
+            "isBlocker": false,
+            "sideOrientation": 1,
+            "isUnIndexed": false,
+            "geometryUniqueId": 1758071965342,
+            "geometryId": "ceed2385-99db-464c-87a3-a92e9d3b1196",
+            "subMeshes": null,
+            "materialId": "default material",
+            "metadata": {
+                "type": "Sphere",
+                "diameter": 100,
+                "segments": 32,
+                "sideOrientation": 0
+            },
+            "instances": [],
+            "animations": [],
+            "ranges": [],
+            "layerMask": 268435455,
+            "alphaIndex": 1.7976931348623157e+308,
+            "hasVertexAlpha": false,
+            "overlayAlpha": 0,
+            "overlayColor": [
+                0,
+                0,
+                0
+            ],
+            "renderOverlay": false,
+            "applyFog": true,
+            "delayLoadingFile": "assets/example.scene/geometries/ceed2385-99db-464c-87a3-a92e9d3b1196.babylonbinarymeshdata",
+            "boundingBoxMaximum": [
+                50,
+                50,
+                50
+            ],
+            "boundingBoxMinimum": [
+                -50,
+                -50,
+                -50
+            ],
+            "_binaryInfo": {
+                "positionsAttrDesc": {
+                    "count": 7245,
+                    "stride": 3,
+                    "offset": 0,
+                    "dataType": 1
+                },
+                "normalsAttrDesc": {
+                    "count": 7245,
+                    "stride": 3,
+                    "offset": 28980,
+                    "dataType": 1
+                },
+                "uvsAttrDesc": {
+                    "count": 4830,
+                    "stride": 2,
+                    "offset": 57960,
+                    "dataType": 1
+                },
+                "indicesAttrDesc": {
+                    "count": 13872,
+                    "stride": 1,
+                    "offset": 77280,
+                    "dataType": 0
+                },
+                "subMeshesAttrDesc": {
+                    "count": 1,
+                    "stride": 5,
+                    "offset": 132768,
+                    "dataType": 0
+                }
+            },
+            "positions": null,
+            "normals": null,
+            "uvs": null,
+            "hasUVs": true,
+            "indices": null
+        }
+    ],
+    "transformNodes": [],
+    "cameras": [],
+    "lights": [],
+    "materials": [],
+    "geometries": {
+        "boxes": [],
+        "spheres": [],
+        "cylinders": [],
+        "toruses": [],
+        "grounds": [],
+        "planes": [],
+        "torusKnots": [],
+        "vertexData": []
+    },
+    "metadata": {
+        "type": "Sphere",
+        "diameter": 100,
+        "segments": 32,
+        "sideOrientation": 0
+    },
+    "basePoseMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ]
+}

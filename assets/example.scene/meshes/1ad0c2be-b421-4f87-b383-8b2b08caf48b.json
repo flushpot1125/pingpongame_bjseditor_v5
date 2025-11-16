@@ -1,0 +1,220 @@
+{
+    "meshes": [
+        {
+            "name": "Player",
+            "id": "1ad0c2be-b421-4f87-b383-8b2b08caf48b",
+            "uniqueId": 1757840989120,
+            "type": "Mesh",
+            "position": [
+                -239.10745609200987,
+                14.71043987429055,
+                159.79121364454207
+            ],
+            "rotationQuaternion": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "scaling": [
+                0.3812127734453836,
+                0.3,
+                0.6315713412756122
+            ],
+            "localMatrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "isEnabled": true,
+            "isVisible": true,
+            "infiniteDistance": false,
+            "pickable": true,
+            "receiveShadows": true,
+            "billboardMode": 0,
+            "visibility": 1,
+            "alwaysSelectAsActiveMesh": false,
+            "checkCollisions": false,
+            "ellipsoid": [
+                0.5,
+                1,
+                0.5
+            ],
+            "ellipsoidOffset": [
+                0,
+                0,
+                0
+            ],
+            "doNotSyncBoundingInfo": false,
+            "isBlocker": false,
+            "sideOrientation": 1,
+            "isUnIndexed": false,
+            "geometryUniqueId": 1757840989121,
+            "geometryId": "a52ce327-0c6d-4a45-a073-fc77f09e9c4f",
+            "subMeshes": null,
+            "materialId": "default material",
+            "metadata": {
+                "type": "Box",
+                "width": 100,
+                "depth": 100,
+                "height": 100,
+                "sideOrientation": 0,
+                "scripts": [
+                    {
+                        "enabled": true,
+                        "key": "scripts/Player.ts"
+                    }
+                ]
+            },
+            "instances": [
+                {
+                    "name": "Block",
+                    "id": "97a88e62-cca0-4af5-a3fb-67d25451aa15",
+                    "isEnabled": true,
+                    "isVisible": false,
+                    "isPickable": true,
+                    "checkCollisions": false,
+                    "position": [
+                        162.28382306377412,
+                        14.71043987429055,
+                        162.85193370408152
+                    ],
+                    "scaling": [
+                        0.3812127734453836,
+                        0.3,
+                        0.8620127529631259
+                    ],
+                    "rotationQuaternion": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "metadata": {},
+                    "animations": [],
+                    "ranges": [],
+                    "uniqueId": 1760827892464
+                }
+            ],
+            "animations": [],
+            "ranges": [],
+            "layerMask": 268435455,
+            "alphaIndex": 1.7976931348623157e+308,
+            "hasVertexAlpha": false,
+            "overlayAlpha": 0,
+            "overlayColor": [
+                0,
+                0,
+                0
+            ],
+            "renderOverlay": false,
+            "applyFog": true,
+            "delayLoadingFile": "assets/example.scene/geometries/a52ce327-0c6d-4a45-a073-fc77f09e9c4f.babylonbinarymeshdata",
+            "boundingBoxMaximum": [
+                50,
+                50,
+                50
+            ],
+            "boundingBoxMinimum": [
+                -50,
+                -50,
+                -50
+            ],
+            "_binaryInfo": {
+                "positionsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 0,
+                    "dataType": 1
+                },
+                "normalsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 288,
+                    "dataType": 1
+                },
+                "uvsAttrDesc": {
+                    "count": 48,
+                    "stride": 2,
+                    "offset": 576,
+                    "dataType": 1
+                },
+                "indicesAttrDesc": {
+                    "count": 36,
+                    "stride": 1,
+                    "offset": 768,
+                    "dataType": 0
+                },
+                "subMeshesAttrDesc": {
+                    "count": 1,
+                    "stride": 5,
+                    "offset": 912,
+                    "dataType": 0
+                }
+            },
+            "positions": null,
+            "normals": null,
+            "uvs": null,
+            "hasUVs": true,
+            "indices": null
+        }
+    ],
+    "transformNodes": [],
+    "cameras": [],
+    "lights": [],
+    "materials": [],
+    "geometries": {
+        "boxes": [],
+        "spheres": [],
+        "cylinders": [],
+        "toruses": [],
+        "grounds": [],
+        "planes": [],
+        "torusKnots": [],
+        "vertexData": []
+    },
+    "metadata": {
+        "type": "Box",
+        "width": 100,
+        "depth": 100,
+        "height": 100,
+        "sideOrientation": 0,
+        "scripts": [
+            {
+                "enabled": true,
+                "key": "scripts/Player.ts"
+            }
+        ]
+    },
+    "basePoseMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ]
+}

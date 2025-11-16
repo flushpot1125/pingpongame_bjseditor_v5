@@ -1,0 +1,472 @@
+{
+    "meshes": [
+        {
+            "name": "WallLeft",
+            "id": "9ec1208d-0d6d-4d16-ab09-93fc39bbb5a8",
+            "uniqueId": 1757819531467,
+            "type": "Mesh",
+            "position": [
+                -7.667713601399333,
+                8.470707277542488,
+                243.9010683640415
+            ],
+            "rotationQuaternion": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "scaling": [
+                5.05600741933671,
+                0.2,
+                0.3982463040112523
+            ],
+            "localMatrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "isEnabled": true,
+            "isVisible": true,
+            "infiniteDistance": false,
+            "pickable": true,
+            "receiveShadows": true,
+            "billboardMode": 0,
+            "visibility": 1,
+            "alwaysSelectAsActiveMesh": false,
+            "checkCollisions": true,
+            "ellipsoid": [
+                0.5,
+                1,
+                0.5
+            ],
+            "ellipsoidOffset": [
+                0,
+                0,
+                0
+            ],
+            "doNotSyncBoundingInfo": false,
+            "isBlocker": false,
+            "sideOrientation": 1,
+            "isUnIndexed": false,
+            "geometryUniqueId": 1757819531468,
+            "geometryId": "dcf2313c-0ff4-4383-aa49-b1a3def10950",
+            "subMeshes": null,
+            "materialUniqueId": 1757840711949,
+            "materialId": "2f4e6350-9b19-4baf-832d-1d49ebb0f799",
+            "metadata": {
+                "type": "Box",
+                "width": 100,
+                "depth": 100,
+                "height": 100,
+                "sideOrientation": 0,
+                "scripts": [],
+                "physicsAggregate": {
+                    "shape": {
+                        "type": 3,
+                        "density": 1000
+                    },
+                    "body": {
+                        "motionType": 0
+                    },
+                    "massProperties": {
+                        "mass": 0,
+                        "inertia": [
+                            140.5001220703125,
+                            21434.84375,
+                            21311.01171875
+                        ],
+                        "centerOfMass": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "inertiaOrientation": [
+                            0,
+                            0,
+                            0,
+                            1
+                        ]
+                    },
+                    "material": {
+                        "friction": 0,
+                        "restitution": 1
+                    }
+                }
+            },
+            "instances": [
+                {
+                    "name": "WallRight",
+                    "id": "12e50fca-27c0-427b-b364-1797fce2847f",
+                    "isEnabled": true,
+                    "isVisible": true,
+                    "isPickable": true,
+                    "checkCollisions": false,
+                    "position": [
+                        -7.115997753545916,
+                        8.47,
+                        -221.11026745536338
+                    ],
+                    "scaling": [
+                        5.050000000000024,
+                        0.2,
+                        0.3982463040112523
+                    ],
+                    "rotationQuaternion": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "metadata": {
+                        "scripts": [],
+                        "physicsAggregate": {
+                            "shape": {
+                                "type": 3,
+                                "density": 1000
+                            },
+                            "body": {
+                                "motionType": 0
+                            },
+                            "massProperties": {
+                                "mass": 0,
+                                "inertia": [
+                                    140.50009155273438,
+                                    21384.248046875,
+                                    21260.416015625
+                                ],
+                                "centerOfMass": [
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "inertiaOrientation": [
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            },
+                            "material": {
+                                "friction": 0,
+                                "restitution": 1
+                            }
+                        }
+                    },
+                    "animations": [],
+                    "ranges": [],
+                    "uniqueId": 1757831405532
+                },
+                {
+                    "name": "WallUp",
+                    "id": "95619d16-998e-4ec0-84d9-d9373b3732f3",
+                    "isEnabled": true,
+                    "isVisible": true,
+                    "isPickable": true,
+                    "checkCollisions": false,
+                    "position": [
+                        235.27762800069647,
+                        8.635128634390924,
+                        10.879570823271898
+                    ],
+                    "scaling": [
+                        5.05,
+                        0.2,
+                        0.3982463040112548
+                    ],
+                    "rotationQuaternion": [
+                        0,
+                        0.7071067811865475,
+                        0,
+                        0.7071067811865476
+                    ],
+                    "metadata": {
+                        "scripts": [],
+                        "physicsAggregate": {
+                            "shape": {
+                                "type": 3,
+                                "density": 1000
+                            },
+                            "body": {
+                                "motionType": 0
+                            },
+                            "massProperties": {
+                                "mass": 1,
+                                "inertia": [
+                                    140.50009155273438,
+                                    21384.248046875,
+                                    21260.416015625
+                                ],
+                                "centerOfMass": [
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "inertiaOrientation": [
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            },
+                            "material": {
+                                "friction": 0,
+                                "restitution": 1
+                            }
+                        }
+                    },
+                    "animations": [],
+                    "ranges": [],
+                    "uniqueId": 1757831505632
+                }
+            ],
+            "animations": [],
+            "ranges": [],
+            "layerMask": 268435455,
+            "alphaIndex": 1.7976931348623157e+308,
+            "hasVertexAlpha": false,
+            "overlayAlpha": 0,
+            "overlayColor": [
+                0,
+                0,
+                0
+            ],
+            "renderOverlay": false,
+            "applyFog": true,
+            "delayLoadingFile": "assets/example.scene/geometries/dcf2313c-0ff4-4383-aa49-b1a3def10950.babylonbinarymeshdata",
+            "boundingBoxMaximum": [
+                50,
+                50,
+                50
+            ],
+            "boundingBoxMinimum": [
+                -50,
+                -50,
+                -50
+            ],
+            "_binaryInfo": {
+                "positionsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 0,
+                    "dataType": 1
+                },
+                "normalsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 288,
+                    "dataType": 1
+                },
+                "uvsAttrDesc": {
+                    "count": 48,
+                    "stride": 2,
+                    "offset": 576,
+                    "dataType": 1
+                },
+                "indicesAttrDesc": {
+                    "count": 36,
+                    "stride": 1,
+                    "offset": 768,
+                    "dataType": 0
+                },
+                "subMeshesAttrDesc": {
+                    "count": 1,
+                    "stride": 5,
+                    "offset": 912,
+                    "dataType": 0
+                }
+            },
+            "positions": null,
+            "normals": null,
+            "uvs": null,
+            "hasUVs": true,
+            "indices": null
+        }
+    ],
+    "transformNodes": [],
+    "cameras": [],
+    "lights": [],
+    "materials": [
+        {
+            "tags": null,
+            "ambient": [
+                0,
+                0,
+                0
+            ],
+            "diffuse": [
+                0.4629132274409007,
+                0.3558416338146237,
+                0.20790284206463897
+            ],
+            "specular": [
+                1,
+                1,
+                1
+            ],
+            "emissive": [
+                0.3494299805433806,
+                0.3553207610708874,
+                0.15221302490946026
+            ],
+            "specularPower": 64,
+            "useAlphaFromDiffuseTexture": false,
+            "useEmissiveAsIllumination": false,
+            "linkEmissiveWithDiffuse": false,
+            "useSpecularOverAlpha": false,
+            "useReflectionOverAlpha": false,
+            "disableLighting": false,
+            "useObjectSpaceNormalMap": false,
+            "useParallax": false,
+            "useParallaxOcclusion": false,
+            "parallaxScaleBias": 0.05,
+            "roughness": 0,
+            "indexOfRefraction": 0.98,
+            "invertRefractionY": true,
+            "alphaCutOff": 0.4,
+            "useLightmapAsShadowmap": false,
+            "useReflectionFresnelFromSpecular": false,
+            "useGlossinessFromSpecularMapAlpha": false,
+            "maxSimultaneousLights": 32,
+            "invertNormalMapX": false,
+            "invertNormalMapY": false,
+            "twoSidedLighting": false,
+            "applyDecalMapAfterDetailMap": false,
+            "id": "2f4e6350-9b19-4baf-832d-1d49ebb0f799",
+            "name": "WallMaterial",
+            "checkReadyOnEveryCall": false,
+            "checkReadyOnlyOnce": false,
+            "state": "",
+            "alpha": 1,
+            "backFaceCulling": true,
+            "cullBackFaces": true,
+            "_alphaMode": [
+                2
+            ],
+            "_needDepthPrePass": false,
+            "disableDepthWrite": false,
+            "disableColorWrite": false,
+            "forceDepthWrite": false,
+            "depthFunction": 0,
+            "separateCullingPass": false,
+            "fogEnabled": true,
+            "pointSize": 1,
+            "zOffset": 0,
+            "zOffsetUnits": 0,
+            "pointsCloud": false,
+            "fillMode": 0,
+            "_isVertexOutputInvariant": false,
+            "stencil": {
+                "tags": null,
+                "func": 519,
+                "backFunc": 519,
+                "funcRef": 1,
+                "funcMask": 255,
+                "opStencilFail": 7680,
+                "opDepthFail": 7680,
+                "opStencilDepthPass": 7681,
+                "backOpStencilFail": 7680,
+                "backOpDepthFail": 7680,
+                "backOpStencilDepthPass": 7681,
+                "mask": 255,
+                "enabled": false
+            },
+            "uniqueId": 1757840711949,
+            "plugins": {
+                "DetailMapConfiguration": {
+                    "tags": null,
+                    "diffuseBlendLevel": 1,
+                    "roughnessBlendLevel": 1,
+                    "bumpLevel": 1,
+                    "normalBlendMethod": 0,
+                    "isEnabled": false,
+                    "name": "DetailMap",
+                    "priority": 140,
+                    "resolveIncludes": false,
+                    "registerForExtraEvents": false
+                }
+            }
+        }
+    ],
+    "geometries": {
+        "boxes": [],
+        "spheres": [],
+        "cylinders": [],
+        "toruses": [],
+        "grounds": [],
+        "planes": [],
+        "torusKnots": [],
+        "vertexData": []
+    },
+    "metadata": {
+        "type": "Box",
+        "width": 100,
+        "depth": 100,
+        "height": 100,
+        "sideOrientation": 0,
+        "scripts": [],
+        "physicsAggregate": {
+            "shape": {
+                "type": 3,
+                "density": 1000
+            },
+            "body": {
+                "motionType": 0
+            },
+            "massProperties": {
+                "mass": 0,
+                "inertia": [
+                    140.5001220703125,
+                    21434.84375,
+                    21311.01171875
+                ],
+                "centerOfMass": [
+                    0,
+                    0,
+                    0
+                ],
+                "inertiaOrientation": [
+                    0,
+                    0,
+                    0,
+                    1
+                ]
+            },
+            "material": {
+                "friction": 0,
+                "restitution": 1
+            }
+        }
+    },
+    "basePoseMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ]
+}
